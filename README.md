@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiferayy
-- 👀 I’m interested in product management 
+- 👀 I’m interested in product management,user research and software development
 - 🌱 I’m currently learning product design, management and user research 
-- 💞️ I’m looking to collaborate on product management,development and design 
+- 💞️ I’m looking to collaborate on product development lifecycle,software development and design 
 - 📫 How to reach me via Twitter @tife_rayy and on LinkedIn http://linkedin.com/in/emmanuel-boluwatife-rachael-540521225
 
 <!---
